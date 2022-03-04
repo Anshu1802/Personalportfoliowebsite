@@ -15,5 +15,10 @@
 ![Screenshot (928)](https://user-images.githubusercontent.com/95359255/156744524-2ea02177-1300-4be5-9f0f-5c0586272359.png)
 
 #After Filling the Hire form i will get mail and the copany which is hireing me will also receive mail
+#these mail will received by me
+![Screenshot (929)](https://user-images.githubusercontent.com/95359255/156747426-2413499b-d993-4649-8d57-eb392d0bd957.png)
+#these mail will be received by that person who is hireing me 
+![Screenshot (930)](https://user-images.githubusercontent.com/95359255/156747515-e7085d84-7297-4694-ab45-7773fb2cc91f.png)
+
 
 
